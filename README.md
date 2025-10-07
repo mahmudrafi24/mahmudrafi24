@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudrafi24&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudrafi24" /> </p>
 
-- 🔭 I’m currently working on [Perplexity Clone Using Flutter](https://github.com/mahmudrafi24/PerPlexity-Clone.git)
+- 🔭 I’m currently working on [NewsAI](https://github.com/mahmudrafi24/news_ai)
 
 - 🌱 I’m currently learning **Flutter, State Management, API Development**
 
