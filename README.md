@@ -26,11 +26,23 @@
 
 ###
 
-<h3 align="left">Stats of Noob:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudrafi24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudrafi24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mahmudrafi24&show_icons=true&theme=github_dark"/>
+  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudrafi24&layout=compact&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudrafi24&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudrafi24&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
 
 
 <h3 align="left">Support:</h3>
