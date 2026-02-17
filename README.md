@@ -26,20 +26,27 @@
 
 ###
 
-## 📊 GitHub Stats  
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mahmudrafi24&show_icons=true&theme=github_dark"/>
-  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudrafi24&layout=compact&theme=github_dark"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudrafi24&theme=github_dark"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudrafi24&theme=tokyonight)
 
-<p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudrafi24&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmudrafi24&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmudrafi24&theme=tokyonight" height="180em" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmudrafi24&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmudrafi24&theme=tokyonight" height="180em" />
+
+</div>
 
 ---
 
