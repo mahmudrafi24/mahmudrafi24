@@ -50,11 +50,11 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">FlyRank AI</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Software Developer</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">VSCode, Android Studio, IntelliJ IDEA</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> . </tspan><tspan class="value">C++, Go, Python, JavaScript, Dart</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan x="390" y="170" class="cc" font-size="14px">. </tspan><tspan class="key" font-size="14px">Languages.Programming</tspan>:<tspan class="cc" font-size="14px"> . </tspan><tspan class="value" font-size="14px">Dart, Python, Go, JavaScript, C/C++, Java</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, Bengali, Hindi</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Interests.Dev</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">App Development, Web Development</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Interests.Tech</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Data Science, AI, ML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Deutsch (Learning), English, Bengali</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Interests.Dev</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Mobile App (iOS/Android), Web App</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Interests.Tech</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">AI, ML, DS, Agentic Coding</tspan>
 <tspan x="390" y="310">- Contact</tspan> -————————————————————————————————————————————————
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">modachermahmudrafi-one.vercel.app</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">in/modacher-mahmud-rafi</tspan>
