@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px" viewBox="0 0 985 530" role="img" aria-labelledby="profile-title">
 <title id="profile-title">Modacher Mahmud Rafi — developer profile and GitHub statistics</title><style>
 @font-face {
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15" />
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" xml:space="preserve">
 <tspan x="15" y="30">                                      </tspan><tspan x="15" y="50">                   |                  </tspan><tspan x="15" y="70">            ijkmkmkkkkmkkji           </tspan><tspan x="15" y="90">          k%%%m%%%%%mmmmkmmmk         </tspan><tspan x="15" y="110">        m%%%%%%%%mmmmmmmmmmmmmm       </tspan><tspan x="15" y="130">      i%%%#%mkjiii||iijjkmm%%%%%k     </tspan><tspan x="15" y="150">       m%%%jii|!!;;;;;;!|ijk%%%%%     </tspan><tspan x="15" y="170">       k%%mj||!!!!;;;;;;;;!|jm%%%     </tspan><tspan x="15" y="190">       k%%ki|ijjjji|;!ijji|!!|m%j     </tspan><tspan x="15" y="210">        %mi|ijkkkkj!,;ikmjii|;|m      </tspan><tspan x="15" y="230">       |%j|!|||i||!:,,;!!!;:::;j!     </tspan><tspan x="15" y="250">      ||ji!!;:::;!|!;!;:,,,,,:;|||    </tspan><tspan x="15" y="270">      iiij|!!!!!!|jjjj|::::::;!|||    </tspan><tspan x="15" y="290">       |jkji|||ijjjiii|||;;;!!|!!     </tspan><tspan x="15" y="310">        ;|jjii|iiiiii|!!||!!!||;:     </tspan><tspan x="15" y="330">          |kjiii|||ii|!;;!||ii        </tspan><tspan x="15" y="350">           jmkkkkjjjiiiiijjkj         </tspan><tspan x="15" y="370">           ikmmmmmmmmmmmmmmj!         </tspan><tspan x="15" y="390">           iijkkjjkkkkkkjji|!!        </tspan><tspan x="15" y="410">          j;iiiiiiiiiii|||!!!j        </tspan><tspan x="15" y="430">          j:,ijiiiii||||!!;;!;        </tspan><tspan x="15" y="450">           ! ,|jii|||||!!!!;:,        </tspan><tspan x="15" y="470">           j,.,!i||||||||;,  ;        </tspan><tspan x="15" y="490">            !,,,!|||||!;,,,.,         </tspan><tspan x="15" y="510">            |;,,,::;!!, .,;;;         </tspan></text>
 <text x="390" y="30" fill="#c9d1d9">
@@ -36,8 +36,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">mahmudrafi24</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Leipzig, Saxony, Germany</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -———————————————————————————————————————————
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">65</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">73</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">205</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">10</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">4,113,286</tspan> ( <tspan class="addColor" id="loc_add">4,141,394</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">28,108</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">65</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">73</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">206</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">10</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"></tspan><tspan class="value" id="loc_data">4,113,302</tspan> ( <tspan class="addColor" id="loc_add">4,141,481</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">28,179</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
